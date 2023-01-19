@@ -174,9 +174,6 @@ urlpatterns = [
 ## OUTPUT:
 ![](serverdesign.png)
 
-### Home Page:
-home page Url: http://divyadivya10.student.saveetha.in/
-
 
 ## Result:
 A website to perform mathematical calculations in server side is created
